@@ -1,2 +1,3 @@
 # project-sprite
- simple webapge of a sprite character
+
+simple webpage of a sprite character
