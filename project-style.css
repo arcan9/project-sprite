@@ -3,9 +3,9 @@ body {
 }
 
 ul {
-  /* position: relative;
-  top: -30px;
-  left: 325px; */
+  position: relative;
+  left: 365px;
+  top: -125px;
   padding: 0;
 }
 
@@ -13,21 +13,44 @@ li {
   list-style-type: none;
 }
 
+h2,
+.question,
+#listy {
+  font-family: "Nunito Sans", sans-serif;
+}
+
 #main-container {
   max-width: 500px;
   margin: 0 auto;
 }
 
-#main-p {
-  font-family: "Nunito Sans", sans-serif;
-}
-
 #main-section {
   background-color: rgb(190, 153, 122);
+  padding: 20px 0 20px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+#main-section h1,
+h2,
+.question {
   text-align: center;
 }
 
 #footer {
   text-align: center;
   font-size: small;
+}
+
+#sprite {
+  display: block;
+  margin: auto 0 -70px 68px;
+  max-height: 250px;
+}
+
+#lorem {
+  line-height: 1.5;
+  padding: 0 20px;
+  font-family: "Nunito Sans", sans-serif;
+  text-align: center;
 }
