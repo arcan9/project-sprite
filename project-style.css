@@ -13,6 +13,12 @@ li {
   list-style-type: none;
 }
 
+li:hover {
+  cursor: pointer;
+  color: rgb(228, 203, 167);
+  font-style: italic;
+}
+
 h2,
 .question,
 #listy {
