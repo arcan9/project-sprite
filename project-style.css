@@ -48,11 +48,17 @@ h2,
   font-size: small;
 }
 
-#sprite {
+#spaghetti-sprite {
+  font-size: 150px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* #sprite {
   display: block;
   margin: auto 0 -70px 68px;
   max-height: 250px;
-}
+} */
 
 #lorem {
   line-height: 1.5;
