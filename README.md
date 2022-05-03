@@ -1,3 +1,3 @@
 # project-sprite
 
-simple webpage of a sprite character to using basics of vanilla HTML/CSS/Javascript
+simple webpage of a sprite character using basics of vanilla HTML/CSS/Javascript
