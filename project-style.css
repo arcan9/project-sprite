@@ -12,13 +12,11 @@ a:hover {
 }
 
 ul {
-  position: absolute;
-  /* left: 365px;
-  top: -125px; */
-  left: 500px;
-  bottom: 410px;
+  position: relative;
+  top: -250px;
+  left: 350px;
+  margin-bottom: -200px;
   padding: 0;
-  margin: 0;
 }
 
 li {
@@ -62,18 +60,12 @@ h2,
   font-size: small;
 }
 
-/* #spaghetti-sprite {
-  font-size: 150px;
-  text-align: center;
-  margin-left: 100px;
-  margin-top: 50px;
-} */
-
 #sprite {
   display: block;
   margin-left: 90px;
   margin-top: 50px;
   max-height: 150px;
+  margin-bottom: 120px;
 }
 
 #lorem {
