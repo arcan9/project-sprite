@@ -12,14 +12,19 @@ a:hover {
 }
 
 ul {
-  position: relative;
-  left: 365px;
-  top: -125px;
+  position: absolute;
+  /* left: 365px;
+  top: -125px; */
+  left: 500px;
+  bottom: 410px;
   padding: 0;
+  margin: 0;
 }
 
 li {
   list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 li:hover {
